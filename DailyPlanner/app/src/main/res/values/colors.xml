@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple_date">#673AB7</color>
+    <color name="dark_background">#121212</color>
+    <color name="dark_surface">#1E1E1E</color>
+    <color name="blue_accent">#2196F3</color>
+    <color name="green_accent">#4CAF50</color>
+    <color name="task_card_overdue">#1A237E</color>
+    <color name="task_card_today">#1A2E1A</color>
+    <color name="task_card_upcoming">#1A1A2E</color>
+    <color name="task_card_done">#1A2E1A</color>
+</resources>

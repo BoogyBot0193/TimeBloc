@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">Time-Bloc</string>
+    <string name="today">Today</string>
+    <string name="daily_quest">Daily Quest</string>
+    <string name="active_clocks">Active clocks</string>
+    <string name="over_due">Over Due</string>
+    <string name="today_tasks">Today Tasks</string>
+    <string name="upcoming_tasks">Upcoming Tasks</string>
+    <string name="done">Done</string>
+    <string name="zero_tasks">0 tasks</string>
+    <string name="two_tasks">2 tasks</string>
+
+    <!-- Calendar date strings -->
+    <string name="current_date_format">2025-05-12</string>
+    <string name="month_may">May</string>
+    <string name="quarter_2">Q2</string>
+    <string name="year_2025">2025</string>
+
+    <!-- Time slots -->
+    <string name="hour_6">6</string>
+    <string name="hour_7">7</string>
+    <string name="hour_8">8</string>
+
+    <!-- Day headers -->
+    <string name="day_mon">Mon</string>
+    <string name="day_tue">Tue</string>
+    <string name="day_wed">Wed</string>
+    <string name="day_thu">Thu</string>
+    <string name="day_fri">Fri</string>
+    <string name="day_sat">Sat</string>
+    <string name="day_sun">Sun</string>
+
+    <!-- Week number -->
+    <string name="week_18">W18</string>
+    <string name="week_19">W19</string>
+
+    <!-- Calendar dates -->
+    <string name="date_28">28</string>
+    <string name="date_29">29</string>
+    <string name="date_30">30</string>
+    <string name="date_1">1</string>
+    <string name="date_2">2</string>
+    <string name="date_3">3</string>
+    <string name="date_4">4</string>
+    <string name="day_5">5</string>
+    <string name="day_6">6</string>
+    <string name="day_7">7</string>
+
+    <!-- Day descriptions -->
+    <string name="last_monday">Last Monday</string>
+    <string name="last_tuesday">Last Tuesday</string>
+    <string name="last_wednesday">Last Wednesday</string>
+    <string name="full_date">Tuesday, 06 May 2025</string>
+
+    <!-- Task names -->
+    <string name="task_hairshower">HairShower</string>
+    <string name="task_talk_pradeep">Talk to Pradeep Sir</string>
+    <string name="task_email_resume">Email Your Resume to Vinoth sir</string>
+    <string name="task_complete_vr">Complete VR Project</string>
+
+    <!-- Content descriptions -->
+    <string name="desc_menu">Menu</string>
+    <string name="desc_prev_date">Previous date</string>
+    <string name="desc_next_date">Next date</string>
+    <string name="desc_settings">Settings</string>
+    <string name="desc_collapse">Collapse</string>
+    <string name="desc_calendar_view">Calendar view</string>
+    <string name="desc_time_view">Time view</string>
+    <string name="desc_first_month">First month</string>
+    <string name="desc_prev_month">Previous month</string>
+    <string name="desc_next_month">Next month</string>
+    <string name="desc_last_month">Last month</string>
+    <string name="time_view">Time view</string>
+    <string name="_29">29</string>
+
+    <!-- Expand buttons descriptions -->
+    <string name="expand_done_tasks">Expand done tasks</string>
+    <string name="expand_today_tasks">Expand today tasks</string>
+    <string name="expand_overdue_tasks">Expand overdue tasks</string>
+    <string name="expand_upcoming_tasks">Expand upcoming tasks</string>
+
+    <!-- For backward compatibility with your current layout -->
+    <string name="expand_today">Expand today tasks</string>
+    <string name="expand_Overdue_tasks">Expand overdue tasks</string>
+    <string name="expand_todaytasks">Expand today tasks</string>
+    <string name="expand_upcoming">Expand upcoming tasks</string>
+    <string name="expand_done">Expand done tasks</string>
+
+    <!-- Additional content descriptions -->
+    <string name="desc_prev_day">Previous day</string>
+    <string name="desc_next_day">Next day</string>
+    <string name="desc_overdue_icon">Overdue icon</string>
+    <string name="desc_today_icon">Today icon</string>
+    <string name="desc_upcoming_icon">Upcoming icon</string>
+    <string name="desc_done_icon">Done icon</string>
+    <string name="desc_reminder_icon">Reminder icon</string>
+    <string name="desc_calendar_icon">Calendar icon</string>
+
+    <!-- Checkbox descriptions -->
+    <string name="check_hairshower">Check hairshower task</string>
+    <string name="check_talk_pradeep">Check talk to Pradeep Sir task</string>
+    <string name="check_email_resume">Check email resume task</string>
+    <string name="check_vr_project">Check VR project task</string>
+    <string name="time_slot_recycler_view" />
+</resources>
