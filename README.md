@@ -14,8 +14,6 @@ DailyPlanner is an Android productivity application built with Kotlin to help us
 - **Time Slots**: Below the calendar, hours from 6:00 through 23:00 are displayed in a scrollable list—users tap an empty slot to schedule tasks and view existing assignments.
     
 - **Responsive Layout**: ConstraintLayout and RecyclerView adapt elements to screen size, maintaining alignment and readability on all devices.
-    
-![WhatsApp Image 2025-06-21 at 17 56 19_6dc33ea6](https://github.com/user-attachments/assets/aae58d82-9f3e-4a40-9f67-e308a2150f57)
 
 ## Task Management View
 
@@ -26,8 +24,9 @@ DailyPlanner is an Android productivity application built with Kotlin to help us
 - **Toggle Completion**: Tapping a task moves it between active and done states, automatically reclassifying it based on the selected date.
     
 - **Empty States**: Informative messages display when no tasks exist in a category, encouraging task creation without leaving blank screens.
-    
-![WhatsApp Image 2025-06-21 at 17 56 36_31a012f6](https://github.com/user-attachments/assets/22782c3b-f92c-4bad-b798-d3ba1fe93a39)
+
+
+    ![TimeBloc](https://github.com/user-attachments/assets/9a60b89d-6e4a-45f2-813f-1df5353700c6)
 
 
 ## Features & Functions
@@ -49,9 +48,6 @@ DailyPlanner is an Android productivity application built with Kotlin to help us
     
 - Tap empty slots to schedule tasks
     
-![WhatsApp Image 2025-06-21 at 17 57 42_10cdbea1](https://github.com/user-attachments/assets/d8c21633-d735-481e-bf1c-65975f49cd3b)
-
-![WhatsApp Image 2025-06-21 at 17 58 30_774945d4](https://github.com/user-attachments/assets/50902c4c-e930-40e3-8b91-af1c575129c7)
 
 
 ## Task Functions
@@ -62,6 +58,4 @@ DailyPlanner is an Android productivity application built with Kotlin to help us
     
 - Toggle completion status
 
-
-[Watch demo video](./Documentation/TimeBloc.mp4)
 
