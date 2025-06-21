@@ -63,4 +63,5 @@ DailyPlanner is an Android productivity application built with Kotlin to help us
 - Toggle completion status
 
 
+[Watch demo video](./Documentation/TimeBloc.mp4)
 
