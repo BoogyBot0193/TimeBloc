@@ -1,4 +1,4 @@
-# DailyPlanner App Documentation
+# DailyPlanner App 
 
 ## Project Overview
 
